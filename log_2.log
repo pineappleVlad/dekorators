@@ -1,0 +1,4 @@
+Run time: 2023-03-29 21:33:14.387631, Name: hello_world, Args: (), Kwargs: {}, Result: Hello World 
+Run time: 2023-03-29 21:33:14.387631, Name: summator, Args: (2, 2), Kwargs: {}, Result: 4 
+Run time: 2023-03-29 21:33:14.387631, Name: div, Args: (6, 2), Kwargs: {}, Result: 3.0 
+Run time: 2023-03-29 21:33:14.387631, Name: summator, Args: (4.3,), Kwargs: {'b': 2.2}, Result: 6.5 
